@@ -1,0 +1,7 @@
+﻿  celda.cpp
+U:\hlocal\LightUpsAlbaCatalina\LightUpsAlbaCatalina\celda.cpp(6,46): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTipo' cuando no hay ninguna variable declarada
+U:\hlocal\LightUpsAlbaCatalina\LightUpsAlbaCatalina\celda.cpp(42,12): error C2440: 'inicializando': no se puede realizar la conversión de 'initializer list' a 'int'
+U:\hlocal\LightUpsAlbaCatalina\LightUpsAlbaCatalina\celda.cpp(42,12): message : El inicializador contiene demasiados elementos
+U:\hlocal\LightUpsAlbaCatalina\LightUpsAlbaCatalina\celda.cpp(59,22): error C2106: '=': el operando izquierdo debe ser valor L
+  main.cpp
+  Generando código...
